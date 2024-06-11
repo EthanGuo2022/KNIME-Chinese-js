@@ -1,0 +1,1 @@
+import{o as e,c as o,a as t}from"./index-6dc36896.js";const n={xmlns:"http://www.w3.org/2000/svg",fill:"none",stroke:"#000","stroke-linejoin":"round",viewBox:"0 0 32 32"},r=t("path",{d:"M17.3 3.3 30 16 17.3 28.7M30 16H2"},null,-1),s=[r];function c(a,i){return e(),o("svg",n,s)}const d={render:c};export{d as A};
